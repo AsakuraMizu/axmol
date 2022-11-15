@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['handletouchesbegin_1349',['handleTouchesBegin',['../de/d80/classaxmol_1_1_g_l_view.html#a5e68399910e85726fa6e9f790d4d6ee9',1,'axmol::GLView']]],
+  ['handletouchescancel_1350',['handleTouchesCancel',['../de/d80/classaxmol_1_1_g_l_view.html#a9981649cdf984220cc817e48e6a10275',1,'axmol::GLView']]],
+  ['handletouchesend_1351',['handleTouchesEnd',['../de/d80/classaxmol_1_1_g_l_view.html#a5016ce638b1c40ba3990ede9297a7d4e',1,'axmol::GLView']]],
+  ['handletouchesmove_1352',['handleTouchesMove',['../de/d80/classaxmol_1_1_g_l_view.html#a6d8f952a39f2734bc1e4c3183cbe4b9d',1,'axmol::GLView::handleTouchesMove(int num, intptr_t ids[], float xs[], float ys[], float fs[], float ms[])'],['../de/d80/classaxmol_1_1_g_l_view.html#a9afb038a29ab49a92af0a4e61ff81f48',1,'axmol::GLView::handleTouchesMove(int num, intptr_t ids[], float xs[], float ys[])']]],
+  ['hasanchorpoint_1353',['hasAnchorPoint',['../df/d95/classaxmol_1_1_sprite_frame.html#a9515f614babaf006417e34af5cd24fbd',1,'axmol::SpriteFrame']]],
+  ['hascenterrect_1354',['hasCenterRect',['../df/d95/classaxmol_1_1_sprite_frame.html#a8e06794b345fe235766ae4e84c5e251f',1,'axmol::SpriteFrame']]],
+  ['hascontent_1355',['hasContent',['../dc/dd4/classaxmol_1_1_clipping_node.html#a8fb2dbafd6b62dad5983d3af0c6e66a3',1,'axmol::ClippingNode']]],
+  ['haseventlistener_1356',['hasEventListener',['../d6/d8a/classaxmol_1_1_event_dispatcher.html#a20e49e3b9bf59c84023b63c07d078fcf',1,'axmol::EventDispatcher']]],
+  ['hasmipmaps_1357',['hasMipmaps',['../d5/d9e/classax_1_1backend_1_1_texture_backend.html#a46416c18b84a3536b983225175f154a1',1,'ax::backend::TextureBackend::hasMipmaps()'],['../dd/dbd/classaxmol_1_1_texture2_d.html#a46416c18b84a3536b983225175f154a1',1,'axmol::Texture2D::hasMipmaps()']]],
+  ['haspolygoninfo_1358',['hasPolygonInfo',['../df/d95/classaxmol_1_1_sprite_frame.html#aaef4f380a72a6107d6cac7288297a462',1,'axmol::SpriteFrame']]],
+  ['haspremultipliedalpha_1359',['hasPremultipliedAlpha',['../dd/dbd/classaxmol_1_1_texture2_d.html#ad7dbaaf5705729392bcef9f5078e737b',1,'axmol::Texture2D']]],
+  ['hasvertexattrib_1360',['hasVertexAttrib',['../dc/d7f/classaxmol_1_1_mesh.html#ac3691a8cf2fd0df629ae71be45592e01',1,'axmol::Mesh::hasVertexAttrib()'],['../da/d9c/classaxmol_1_1_mesh_vertex_data.html#ac3691a8cf2fd0df629ae71be45592e01',1,'axmol::MeshVertexData::hasVertexAttrib()']]],
+  ['hbox_1361',['HBox',['../d0/dfa/classaxmol_1_1ui_1_1_h_box.html',1,'HBox'],['../d0/dfa/classaxmol_1_1ui_1_1_h_box.html#a4209b8ef063c61adc45869fd937bad95',1,'axmol::ui::HBox::HBox()']]],
+  ['helper_1362',['Helper',['../d8/d98/classaxmol_1_1ui_1_1_helper.html',1,'axmol::ui']]],
+  ['hide_1363',['Hide',['../d5/d86/classaxmol_1_1_hide.html',1,'axmol']]],
+  ['hideoutshowin_1364',['hideOutShowIn',['../de/d98/classaxmol_1_1_transition_scene.html#a76bc78896b64ff3b919f281b2298bff4',1,'axmol::TransitionScene']]],
+  ['highestatlasindexinchild_1365',['highestAtlasIndexInChild',['../d3/db9/classaxmol_1_1_sprite_batch_node.html#acff0b7e958a894d0a11e365878607797',1,'axmol::SpriteBatchNode']]],
+  ['hittest_1366',['hitTest',['../d1/dec/classaxmol_1_1_node.html#a6f14510179b750ebf5fc388661c2a0a6',1,'axmol::Node::hitTest()'],['../db/d02/classaxmol_1_1ui_1_1_slider.html#a2d13a93fb5c688d2fe2d656dc6faa601',1,'axmol::ui::Slider::hitTest()'],['../d8/d37/classaxmol_1_1ui_1_1_text_field.html#a2d13a93fb5c688d2fe2d656dc6faa601',1,'axmol::ui::TextField::hitTest()'],['../df/d61/classaxmol_1_1ui_1_1_widget.html#a0e3dc197d7dc825238f2f6213f31ab61',1,'axmol::ui::Widget::hitTest()']]],
+  ['horizontal_1367',['HORIZONTAL',['../df/ded/classaxmol_1_1_particle_system.html#a19f5613efb62e2454a9d953e240c13d7a86e5d0d8407ce71f7e2004ef3949894e',1,'axmol::ParticleSystem']]],
+  ['horizontaledge_1368',['HorizontalEdge',['../d2/dc1/classaxmol_1_1ui_1_1_layout_component.html#ab7c7f379d14036b7ba5de57976bb1872',1,'axmol::ui::LayoutComponent']]],
+  ['hsl_1369',['HSL',['../dc/df3/structaxmol_1_1_h_s_l.html',1,'axmol']]],
+  ['hsv_1370',['HSV',['../d8/d03/structaxmol_1_1_h_s_v.html',1,'axmol']]],
+  ['httpclient_1371',['HttpClient',['../d0/d77/classaxmol_1_1network_1_1_http_client.html',1,'axmol::network']]],
+  ['httprequest_1372',['HttpRequest',['../d0/d04/classaxmol_1_1network_1_1_http_request.html',1,'HttpRequest'],['../d0/d04/classaxmol_1_1network_1_1_http_request.html#a785ca311f7569c57a36d9a10a7c128ea',1,'axmol::network::HttpRequest::HttpRequest()']]],
+  ['httpresponse_1373',['HttpResponse',['../db/daf/classaxmol_1_1network_1_1_http_response.html',1,'HttpResponse'],['../db/daf/classaxmol_1_1network_1_1_http_response.html#a6f1638a033fc2ecb57c8d1f4124d4f14',1,'axmol::network::HttpResponse::HttpResponse()']]]
+];
